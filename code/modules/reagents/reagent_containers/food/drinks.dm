@@ -231,11 +231,15 @@
 	name = "shiny flask"
 	desc = "A shiny metal flask. It appears to have a Greek symbol inscribed on it."
 	icon_state = "shinyflask"
+	volume = 60
+	center_of_mass = list("x"=17, "y"=8)
 
 /obj/item/weapon/reagent_containers/food/drinks/flask/lithium
 	name = "lithium flask"
 	desc = "A flask with a Lithium Atom symbol on it."
 	icon_state = "lithiumflask"
+	volume = 60
+	center_of_mass = list("x"=17, "y"=8)
 
 /obj/item/weapon/reagent_containers/food/drinks/flask/detflask
 	name = "Inspector's Flask"
