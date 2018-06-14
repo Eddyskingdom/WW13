@@ -3,15 +3,14 @@
 "ac" = (/obj/structure/light/small{icon_state = "bulb1"; dir = 1},/obj/effect/decal/cleanable/blood/splatter,/obj/effect/decal/cleanable/blood/tracks/footprints,/turf/floor/wood,/area/prishtina/houses/nml_five{base_turf = /turf/floor/wood_broken; name = "3rd - Police Station"})
 "ad" = (/obj/structure/light/small{icon_state = "bulb1"; dir = 1},/obj/effect/decal/cleanable/blood/tracks/footprints,/turf/floor/wood,/area/prishtina/houses/nml_five{base_turf = /turf/floor/wood_broken; name = "3rd - Police Station"})
 "ae" = (/obj/item/weapon/stool/prison,/obj/effect/decal/cleanable/blood/drip,/obj/effect/decal/cleanable/blood,/turf/floor/wood,/area/prishtina/houses/nml_five{base_turf = /turf/floor/wood_broken; name = "3rd - Police Station"})
-"af" = (/obj/item/weapon/stool/prison,/obj/effect/decal/cleanable/blood/drip,/obj/effect/decal/cleanable/blood,/mob/living/carbon/human/corpse/SS,/turf/floor/wood,/area/prishtina/houses/nml_five{base_turf = /turf/floor/wood_broken; name = "3rd - Police Station"})
+"af" = (/obj/effect/decal/cleanable/blood/drip,/obj/effect/decal/cleanable/blood,/turf/floor/wood,/area/prishtina/houses/nml_five{base_turf = /turf/floor/wood_broken; name = "3rd - Police Station"})
 "ag" = (/obj/effect/decal/cleanable/blood/drip,/obj/effect/decal/cleanable/blood/splatter,/turf/floor/wood,/area/prishtina/houses/nml_five{base_turf = /turf/floor/wood_broken; name = "3rd - Police Station"})
 "ah" = (/obj/item/weapon/stool/prison,/obj/effect/decal/cleanable/blood/drip,/obj/effect/decal/cleanable/blood/drip,/turf/floor/wood,/area/prishtina/houses/nml_five{base_turf = /turf/floor/wood_broken; name = "3rd - Police Station"})
 "ai" = (/obj/structure/simple_door/key_door/soviet{name = "Prison Cell"},/obj/effect/decal/cleanable/blood/drip,/turf/floor/wood,/area/prishtina/houses/nml_five{base_turf = /turf/floor/wood_broken; name = "3rd - Police Station"})
 "aj" = (/obj/effect/decal/cleanable/blood/tracks/footprints,/obj/effect/decal/cleanable/blood/drip,/turf/floor/wood,/area/prishtina/houses/nml_five{base_turf = /turf/floor/wood_broken; name = "3rd - Police Station"})
 "ak" = (/obj/structure/simple_door/key_door/soviet{name = "Prison Cell"},/obj/effect/decal/cleanable/blood/tracks/footprints,/obj/effect/decal/cleanable/blood/drip,/turf/floor/wood,/area/prishtina/houses/nml_five{base_turf = /turf/floor/wood_broken; name = "3rd - Police Station"})
 "al" = (/obj/item/weapon/stool/prison,/obj/effect/decal/cleanable/blood/drip,/obj/effect/decal/cleanable/blood/splatter,/turf/floor/wood,/area/prishtina/houses/nml_five{base_turf = /turf/floor/wood_broken; name = "3rd - Police Station"})
-"am" = (/obj/effect/decal/cleanable/blood/drip,/obj/effect/decal/cleanable/blood,/mob/living/carbon/human/corpse/SS,/turf/floor/wood,/area/prishtina/houses/nml_five{base_turf = /turf/floor/wood_broken; name = "3rd - Police Station"})
-"an" = (/obj/item/weapon/cigbutt/cigarbutt,/obj/item/weapon/stool/prison,/obj/effect/decal/cleanable/blood/drip,/obj/effect/decal/cleanable/blood,/mob/living/carbon/human/corpse/SS,/turf/floor/wood,/area/prishtina/houses/nml_five{base_turf = /turf/floor/wood_broken; name = "3rd - Police Station"})
+"am" = (/obj/item/weapon/cigbutt/cigarbutt,/obj/item/weapon/stool/prison,/obj/effect/decal/cleanable/blood/drip,/obj/effect/decal/cleanable/blood,/turf/floor/wood,/area/prishtina/houses/nml_five{base_turf = /turf/floor/wood_broken; name = "3rd - Police Station"})
 "ao" = (/obj/structure/barricade/steel,/obj/effect/decal/cleanable/blood,/turf/floor/wood,/area/prishtina/houses/nml_five{base_turf = /turf/floor/wood_broken; name = "3rd - Police Station"})
 "ap" = (/obj/item/clothing/head/caphat/hop{name = "NKVD hat"},/obj/item/clothing/head/caphat/hop{name = "NKVD hat"},/obj/item/clothing/head/caphat/hop{name = "NKVD hat"},/obj/structure/closet/anchored,/turf/floor/wood,/area/prishtina/houses/nml_five{base_turf = /turf/floor/wood_broken; name = "3rd - Police Station"})
 "aq" = (/obj/structure/table/wood,/obj/item/clothing/head/caphat/hop{name = "NKVD hat"},/turf/floor/wood,/area/prishtina/houses/nml_five{base_turf = /turf/floor/wood_broken; name = "3rd - Police Station"})
@@ -107,11 +106,11 @@ ababaaaaiaibibibibicibibibibicibidieidicibibibibicibibibibicibifibibicibibigibic
 ababaaaaiaibihihiiijijikilijiminioipiqapiririsibijijijihijijijijihijijijitihijijijijihiuivivacadibiaaaababababaaabababab
 ababaaaaiaibijijidiyijimizijiziAijijijiyijijijiBiCibijijirijirijiriDijitijiEijitititiuiEijiNiGiNiIiaabababababababababab
 ababaaaaiaibijijiJiEijijijijijijijiKiKiKiKiKijimijibijijirijiriLiriEijiyijijiMijiuijijijiEiNiNiOibiaaaababababaaabababab
-ababaaaaiaibijijidijijiPiQijimiPijiKiSaeafiKijiUiCibijiViriWirijirijijitititijitijitititiNiNijijiIiaaaabdCdCdCaaabababab
+ababaaaaiaibijijidijijiPiQijimiPijiKiSaeaeiKijiUiCibijiViriWirijirijijitititijitijitititiNiNijijiIiaaaabdCdCdCaaabababab
 ababaaaaiaibiXijiYiCijiZinijjaimijiKjbagahjdijibibibijijirijirijirijjeiNjfiNjgiNijiNiNiNjhijijjiibiaaaabaaaadCaaabababab
 ababaaaaiaibiXijiYiCijijijijijijijaijcjkajakijjmiNiEiNiNiriDirijiriNijititijititiEijiEijiEijijjiibiaaaabdCdCdCaaabababab
-ababaaaaiaibiXijiYiCiyjnjoijjpikijiKalamjqiKijibibibijiNirijirijiriNijijijjfijijijititiuijijijjiibiaaaabaaaadCaaabababab
-ababaaaaiaibijijidijijjrizijizaqiEiKaniTalaoijjtiCibijiNiriyirjuirjviEititijiEitijijijitijijijijibiaaaabdCdCdCaaabababab
+ababaaaaiaibiXijiYiCiyjnjoijjpikijiKalafjqiKijibibibijiNirijirijiriNijijijjfijijijititiuijijijjiibiaaaabaaaadCaaabababab
+ababaaaaiaibijijidijijjrizijizaqiEiKamiTalaoijjtiCibijiNiriyirjuirjviEititijiEitijijijitijijijijibiaaaabdCdCdCaaabababab
 ababaaaaiaibijijiJijijijijijijijijiKiKiKjwiKijjxijibijiNirijirijiriNijijijitijiDiMiLijijijijijijibiaaaabaaaaaaaaabababab
 ababaaaaiaibijijidjyijiPjzijiAiPijijiyiEijijijjAiCibijijirijiriWirijijitititjfitijitiEijiEiMiMiMibiaaaabaaaaaaaaabababab
 ababaaaaiaibjBjBiiijijimimijinaqjCjDjEijirirjFibijijijjBiNiNiNiNjIijiuijijjBijijijijjBijiMiMjJjJibiaaaaaaaaaaaaaabababab

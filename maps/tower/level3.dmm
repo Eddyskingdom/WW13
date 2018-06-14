@@ -1,5 +1,6 @@
 "aa" = (/obj/skybox,/turf/wall/indestructable/black,/area/prishtina/void)
 "ab" = (/turf/wall/indestructable/black,/area/prishtina/void)
+"ac" = (/obj/structure/simple_door/key_door/italian/command_high{breakable = 1; unique_door_name = "Lobby"},/turf/wall/sandstone,/area/prishtina/houses/nml_two{base_turf = /turf/floor/wood_broken; name = "Lobby"})
 "cR" = (/turf/wall/indestructable/black,/area/prishtina/houses/nml_two{base_turf = /turf/floor/wood_broken; name = "Lobby"})
 "cS" = (/turf/wall/sandstone,/area/prishtina/houses/nml_two{base_turf = /turf/floor/wood_broken; name = "Lobby"})
 "cT" = (/obj/structure/window_frame,/obj/structure/barricade/steel,/turf/wall/wood,/area/prishtina/houses/nml_two{base_turf = /turf/floor/wood_broken; name = "Lobby"})
@@ -50,7 +51,6 @@
 "dO" = (/obj/structure/bed/chair/wood{dir = 1},/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "floor"},/area/prishtina/houses/nml_two{base_turf = /turf/floor/wood_broken; name = "Lobby"})
 "dP" = (/obj/structure/pot,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "floor"},/area/prishtina/houses/nml_two{base_turf = /turf/floor/wood_broken; name = "Lobby"})
 "dQ" = (/obj/structure/closet/crate/rations/soviet_liquids,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "floor"},/area/prishtina/houses/nml_two{base_turf = /turf/floor/wood_broken; name = "Lobby"})
-"dR" = (/obj/structure/simple_door/key_door/italian/command_high{unique_door_name = "Lobby"},/turf/wall/sandstone,/area/prishtina/houses/nml_two{base_turf = /turf/floor/wood_broken; name = "Lobby"})
 "dS" = (/obj/structure/table/glass,/obj/item/weapon/paper,/obj/item/weapon/pen,/turf/floor/carpet,/area/prishtina/houses/nml_two{base_turf = /turf/floor/wood_broken; name = "Lobby"})
 "dT" = (/obj/structure/light/small{dir = 4},/obj/structure/bed/chair/wood,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "floor"},/area/prishtina/houses/nml_two{base_turf = /turf/floor/wood_broken; name = "Lobby"})
 "dU" = (/obj/structure/table/iron,/obj/effect/decal/cleanable/flour,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "floor"},/area/prishtina/houses/nml_two{base_turf = /turf/floor/wood_broken; name = "Lobby"})
@@ -104,11 +104,11 @@ aaaaaaaacRcScScScScTcScScScScTcScScScScTcScScScScTcScScScScTcScScScScTcScScScScT
 aaaaaaaacRcScUcVcWcWcXcWcVcWcWcWcWcVcYcZcSdadbdcdcdcdddedcdcdddcdedcdddcdcdecSdfdgdhdhdgdicSdjdkcScRaaaaaaaaaaaaabababab
 aaaaaaaacRcSdldmdmdmdndmdmdmdmdmdodpdqdrcSdsdddudvdwdddudvdydddzdAdydddBdAdDcSdEdddddddddFcSdGdHcScRaaaaaaaaaaaaabababab
 aaaaaaaacRcSdIdmdmdmdJdKdKdLdmdmdodpdqdMdNdddddOdOdOdddOdOdOdddOdOdOdddOdOdOcSdEdddPdPdddQcSdGdHcScRaaaaaaaaaaaaabababab
-aaaaaaaacRdRdldmdmdmdJdSdndndmdmdmdmdmdMdNdddddcdcdcdddcdcdcdddcdcdcdddcdcdTcSdUdddPdPdVdWcSdGdGcScRaaaadCdCdCaaabababab
-aaaaaaaacRdRdldmdmdmdndndndXdmdmdmdmdmdYcSdddddydAdzdddydvdBdddzdAdudddudvdZcSeaebddddddeccSdGdGcScRaaaadCaadCaaabababab
-aaaaaaaacRdRdldmdmdmdmdmdmdmdmdmdmdmdmdMdNdddddOdOdOdddOdOdOdddOdOdOdddOdOdOcSeadddddVddedcSdGeecScRaaaadCaadCaaabababab
-aaaaaaaacRdRdldmdmdmdmdmdmdmdmdmdmdmdmdMdNdddddcdcdcdddcdcdcdddcdcdcddddddddcSefddddddddegcSdGdGcScRaaaadCaadCababababab
-aaaaaaaacRdRdldmdmdmdndndndndmdodpdqdmdrcSdseheidvejddekdAdzdddwelduddememehdNddeneoepeqercSdGdGcScRaaaadCdCdCaaabababab
+aaaaaaaacRacdldmdmdmdJdSdndndmdmdmdmdmdMdNdddddcdcdcdddcdcdcdddcdcdcdddcdcdTcSdUdddPdPdVdWcSdGdGcScRaaaadCdCdCaaabababab
+aaaaaaaacRacdldmdmdmdndndndXdmdmdmdmdmdYcSdddddydAdzdddydvdBdddzdAdudddudvdZcSeaebddddddeccSdGdGcScRaaaadCaadCaaabababab
+aaaaaaaacRacdldmdmdmdmdmdmdmdmdmdmdmdmdMdNdddddOdOdOdddOdOdOdddOdOdOdddOdOdOcSeadddddVddedcSdGeecScRaaaadCaadCaaabababab
+aaaaaaaacRacdldmdmdmdmdmdmdmdmdmdmdmdmdMdNdddddcdcdcdddcdcdcdddcdcdcddddddddcSefddddddddegcSdGdGcScRaaaadCaadCababababab
+aaaaaaaacRacdldmdmdmdndndndndmdodpdqdmdrcSdseheidvejddekdAdzdddwelduddememehdNddeneoepeqercSdGdGcScRaaaadCdCdCaaabababab
 aaaaaaaacRcSdIdmdmdmdJdJdXdXdmdmesdmdmdMcScScScScScScScScScScScScScScScScScScScScScScScScScSdGetcScRaaaaaaaaaaaaabababab
 aaaaaaaacRcSdldmdmdmdnesesdLdmdmdmdmdmdMeudGdGdGdGevewexdGdGevewexdGdGevewexdGdGevewexdGdGdGdGetcScRaaaaaaaaaaaaabababab
 aaaaaaaacRcSeyezeAeAeBeAezeAeAeAeAezeCeDeudGeEdGdGdGdGeEdGdGdGdGeEdGdGdGdGeEdGdGdGdGeEdGdGdGeEeFcScRaaaaaaaaaaaaabababab
