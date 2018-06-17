@@ -50,7 +50,6 @@
 "aX" = (/obj/effect/landmark{name = "JoinLateHeerSO"},/obj/structure/bed/chair/wood{dir = 8},/turf/floor/wood,/area/prishtina/german/command)
 "aY" = (/obj/structure/closet/crate/kar98kammo,/turf/floor/wood,/area/prishtina/german/armory{base_turf = /turf/floor/wood_broken})
 "aZ" = (/obj/structure/window/sandbag{tag = "icon-sandbag (NORTH)"; icon_state = "sandbag_33%"; dir = 8},/turf/floor/wood,/area/prishtina/german/base_defenses{base_turf = /turf/floor/wood_broken; location = 0})
-"ba" = (/obj/item/weapon/paper,/turf/floor/wood,/area/prishtina/german/resting_area_1{base_turf = /turf/floor/wood_broken})
 "bb" = (/obj/effect/landmark{name = "JoinLateHeer-S3"},/turf/floor/wood,/area/prishtina/german/resting_area_1{base_turf = /turf/floor/wood_broken})
 "bc" = (/obj/effect/landmark{name = "JoinLateHeer-S1"},/turf/floor/wood,/area/prishtina/german/resting_area_1{base_turf = /turf/floor/wood_broken})
 "bd" = (/obj/effect/landmark{name = "JoinLateHeerQM"},/turf/floor/wood,/area/prishtina/german/armory)
@@ -155,7 +154,7 @@ aaaaaaaaadafaYaYaCanamanaZaQararcFbDaQbbbcbfbgbhaMafadababababaeaeaeabababababab
 aaaaaaaaadafbiaCaCamanamaDbjbkaEcGaQaQbbbcbncHbocIagadababababababaeababababababababababababababababaaaaaaaaaaaaaaababab
 aaaaaaaaadafbiaCaCanamanaPaQaEaEbDbDaQbbbcbncHbrbubvadabaeaeabaeaeaeababababababababababababababababaaaaaaaaaaaaaaababab
 aaaaaaaaadafbiaCaCamanamaPaQaEarbbbbbbbbbcbnbwbxciagadababababaeababababababababababababababababababaaaaaaaaaaaaaaababab
-aaaaaaaaadafaCaCaCanamanbBbCbaarbDbDbDbbbcbnbwbFboafadababababaeaeaeababababababababababababababababaaaaaaaaaaaaaaababab
+aaaaaaaaadafaCaCaCanamanbBbCaEarbDbDbDbbbcbnbwbFboafadababababaeaeaeababababababababababababababababaaaaaaaaaaaaaaababab
 aaaaaaaaadafaCbHaCaEaEaEaEaEblaraEafafbKafafbpbsbtafadabababababababababababababababababababababababaaaaaaaaaaaaaaababab
 aaaaaaaaadafaCaCbHaCaCaCaEaEblaEaEafbPbUbWafbIbsbQafadabababababababababababababababababababababababaaaaaaaaaaaaaaababab
 aaaaaaaaadafbTbXcjbObObYckcJcmcacbafbPcfbUcnbRbSccafadabababababababababababababababababababababababaaaaaaaaaaaaaaababab
