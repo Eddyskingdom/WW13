@@ -36,6 +36,7 @@
 		new /obj/item/weapon/material/butterflyconstruction(user.loc, B.material.name)
 		qdel(W)
 		qdel(src)
+<<<<<<< HEAD
 		return
 
 /obj/item/weapon/material/makeshift_knife_blade
@@ -44,7 +45,7 @@
 	icon = 'icons/obj/weapons.dmi'
 	icon_state = "makeshift_knife_blade"
 	force_divisor = 0.15
-	thrown_force_divisor = 0.1
+	thrown_force_divisor = 0.15
 
 
 /obj/item/weapon/material/makeshift_knife_grip
@@ -99,7 +100,7 @@
 		user << "<span class='notice'>You fasten \the [I] to the top of the rod with the cable.</span>"
 /*	else if (istype(I, /obj/item/weapon/wirecutters))
 		finished = new /obj/item/weapon/melee/baton/cattleprod(get_turf(user))
-		user << "<span class='notice'>You fasten the wirecutters to the top of the rod with the cable, prongs outward.</span>"*/
+		user << "<span class='notice'>You fasten the wirecutters to the top of the rod with the cable, prongs outward.</span>"
 	if (finished)
 		user.drop_from_inventory(src)
 		user.drop_from_inventory(I)
@@ -108,3 +109,6 @@
 		user.put_in_hands(finished)
 	update_icon(user)
 */
+=======
+		return
+>>>>>>> b34d6928eb5874d1dd3b5a9766a9e2c09458ab98
