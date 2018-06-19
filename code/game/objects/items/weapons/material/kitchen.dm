@@ -107,7 +107,7 @@
 
 /obj/item/weapon/material/kitchen/utensil/knife/boot/makeshift_knife
 	name = "boot knife"
-	desc = "A small self made knife used a lot in jail."
+	desc = "A small self made knife used a lott in jail."
 	icon = 'icons/obj/weapons.dmi'
 	icon_state = "makeshift_knife"
 	item_state = "knife"

@@ -102,7 +102,7 @@
 		/obj/item/clothing/suit/storage/coat/german/ghillie = 5,
 		/obj/item/clothing/under/geruni/ghillie = 5,
 
-		/obj/item/weapon/material/kitchen/utensil/knife/boot/nr40_knife_SS = 10,
+		/obj/item/weapon/material/kitchen/utensil/knife/boot/nr40_knife_SS = 15,
 		/obj/item/weapon/attachment/bayonet/german = 10,
 		/obj/item/weapon/gauze_pack/gauze = 10,
 		/obj/item/flashlight = 10,

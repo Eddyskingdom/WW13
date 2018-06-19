@@ -36,7 +36,6 @@
 		new /obj/item/weapon/material/butterflyconstruction(user.loc, B.material.name)
 		qdel(W)
 		qdel(src)
-<<<<<<< HEAD
 		return
 
 /obj/item/weapon/material/makeshift_knife_blade
@@ -44,8 +43,8 @@
 	desc = "A knife blade. Unusable as a weapon without a grip."
 	icon = 'icons/obj/weapons.dmi'
 	icon_state = "makeshift_knife_blade"
-	force_divisor = 0.15
-	thrown_force_divisor = 0.15
+	force_divisor = 0.1
+	thrown_force_divisor = 0.1
 
 
 /obj/item/weapon/material/makeshift_knife_grip
@@ -53,7 +52,7 @@
 	desc = "A wood grip with hols fittings for a blade."
 	icon = 'icons/obj/weapons.dmi'
 	icon_state = "makeshift_knife_grip"
-	force_divisor = 0.15
+	force_divisor = 0.1
 	thrown_force_divisor = 0.1
 
 /obj/item/weapon/material/makeshift_knife_grip/attackby(obj/item/W as obj, mob/user as mob)
@@ -74,8 +73,7 @@
 	throwforce = WEAPON_FORCE_NORMAL
 	attack_verb = list("stab", "cut", "slice")
 	force_divisor = 0.4
-	thrown_force_divisor = 0.25
-
+	thrown_force_divisor = 0.2
 
 /*
 /obj/item/weapon/material/wirerod
@@ -89,8 +87,8 @@
 	w_class = 3
 	attack_verb = list("hit", "bludgeoned", "whacked", "bonked")
 	force_divisor = 0.1
-	thrown_force_divisor = 0.1
-
+	thrown_force_divisor = 0.1 */
+/*
 /obj/item/weapon/material/wirerod/attackby(var/obj/item/I, mob/user as mob)
 	..()
 	var/obj/item/finished
@@ -98,7 +96,7 @@
 		var/obj/item/weapon/material/tmp_shard = I
 		finished = new /obj/item/weapon/material/twohanded/spear(get_turf(user), tmp_shard.material.name)
 		user << "<span class='notice'>You fasten \the [I] to the top of the rod with the cable.</span>"
-/*	else if (istype(I, /obj/item/weapon/wirecutters))
+	else if (istype(I, /obj/item/weapon/wirecutters))
 		finished = new /obj/item/weapon/melee/baton/cattleprod(get_turf(user))
 		user << "<span class='notice'>You fasten the wirecutters to the top of the rod with the cable, prongs outward.</span>"
 	if (finished)
@@ -108,7 +106,5 @@
 		qdel(src)
 		user.put_in_hands(finished)
 	update_icon(user)
+
 */
-=======
-		return
->>>>>>> b34d6928eb5874d1dd3b5a9766a9e2c09458ab98
