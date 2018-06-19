@@ -43,7 +43,7 @@
 	desc = "A knife blade. Unusable as a weapon without a grip."
 	icon = 'icons/obj/weapons.dmi'
 	icon_state = "makeshift_knife_blade"
-	force_divisor = 0.1
+	force_divisor = 0.15
 	thrown_force_divisor = 0.1
 
 
@@ -52,7 +52,7 @@
 	desc = "A wood grip with hols fittings for a blade."
 	icon = 'icons/obj/weapons.dmi'
 	icon_state = "makeshift_knife_grip"
-	force_divisor = 0.1
+	force_divisor = 0.15
 	thrown_force_divisor = 0.1
 
 /obj/item/weapon/material/makeshift_knife_grip/attackby(obj/item/W as obj, mob/user as mob)
@@ -72,8 +72,8 @@
 	force = WEAPON_FORCE_PAINFUL
 	throwforce = WEAPON_FORCE_NORMAL
 	attack_verb = list("stab", "cut", "slice")
-	force_divisor = 0,4
-	thrown_force_divisor = 0.2
+	force_divisor = 0.4
+	thrown_force_divisor = 0.25
 
 
 /*
