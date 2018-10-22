@@ -1,0 +1,384 @@
+"aa" = (/turf/floor/plating/grass/wild,/area/prishtina)
+"ab" = (/turf/floor/plating/cobblestone/vertical,/area/prishtina)
+"ac" = (/turf/wall/rockwall,/area/prishtina)
+"ad" = (/turf/wall/gold,/area/prishtina)
+"ae" = (/obj/structure/flag/german,/turf/floor/plating/grass/wild,/area/prishtina)
+"af" = (/obj/structure/barricade,/obj/structure/barbwire,/turf/floor/plating/road,/area/prishtina)
+"ag" = (/turf/floor/dirt,/area/prishtina)
+"ah" = (/obj/structure/barbwire,/turf/floor/dirt,/area/prishtina)
+"ai" = (/turf/floor/plating/dirt,/area/prishtina)
+"aj" = (/obj/structure/window/sandbag{tag = "icon-sandbag (WEST)"; icon_state = "sandbag"; dir = 8},/obj/item/weapon/gun/projectile/automatic/stationary/mg34stat{icon_state = "mg34stat"; dir = 8},/turf/floor/plating/dirt,/area/prishtina)
+"ak" = (/obj/structure/window/sandbag{tag = "icon-sandbag (WEST)"; icon_state = "sandbag"; dir = 8},/turf/floor/plating/dirt,/area/prishtina)
+"al" = (/obj/structure/barbwire,/turf/floor/plating/dirt,/area/prishtina)
+"am" = (/obj/structure/barbwire{dir = 4; icon_state = "barbwire"; pixel_y = 0; tag = "icon-barbwire (EAST)"},/turf/floor/plating/grass/wild,/area/prishtina)
+"an" = (/turf/wall/iron,/area/prishtina/houses)
+"ao" = (/obj/structure/closet/crate/lugers,/obj/structure/bed/chair/office/dark{icon_state = "F6"},/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"ap" = (/obj/structure/sign/flag/germanybanner,/turf/wall/iron,/area/prishtina/houses)
+"aq" = (/obj/structure/multiz/stairs{dir = 8},/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "hydrofloor"},/area/prishtina/houses)
+"ar" = (/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "hydrofloor"},/area/prishtina/houses)
+"as" = (/obj/structure/multiz/stairs{icon_state = "rampup"; dir = 4},/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "hydrofloor"},/area/prishtina/houses)
+"at" = (/obj/structure/window/classic/reinforced,/turf/floor/plating/road,/area/prishtina/houses)
+"au" = (/obj/structure/simple_door/key_door/german,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"av" = (/obj/structure/window/sandbag{tag = "icon-sandbag (NORTH)"; icon_state = "sandbag"; dir = 1},/turf/floor/plating/grass/wild,/area/prishtina)
+"aw" = (/obj/structure/simple_door/key_door/german,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "hydrofloor"},/area/prishtina/houses)
+"ax" = (/obj/structure/wild/tree/anchored,/turf/floor/plating/grass/wild,/area/prishtina)
+"ay" = (/obj/structure/table/wood,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"az" = (/obj/structure/sign/flag/germany{pixel_y = 32},/turf/floor/plating/grass/wild,/area/prishtina)
+"aA" = (/obj/structure/window/sandbag,/turf/floor/plating/cobblestone/vertical,/area/prishtina)
+"aB" = (/obj/structure/window/sandbag{tag = "icon-sandbag_66%"; icon_state = "sandbag_66%"; dir = 2},/turf/floor/plating/cobblestone/vertical,/area/prishtina)
+"aC" = (/obj/item/weapon/gun/projectile/automatic/stationary/mg34stat,/obj/structure/window/sandbag{tag = "icon-sandbag_66%"; icon_state = "sandbag_66%"; dir = 2},/turf/floor/plating/cobblestone/vertical,/area/prishtina)
+"aD" = (/obj/structure/barricade/steel,/obj/structure/barbwire{dir = 4; icon_state = "barbwire"; pixel_y = 0; tag = "icon-barbwire (EAST)"},/turf/floor/plating/road,/area/prishtina)
+"aE" = (/obj/structure/barricade/steel,/obj/structure/barbwire{dir = 4; icon_state = "barbwire"; pixel_y = 0; tag = "icon-barbwire (EAST)"},/turf/floor/plating/grass/wild,/area/prishtina)
+"aF" = (/turf/floor/plating/cobblestone/vertical/dark,/area/prishtina)
+"aG" = (/obj/structure/flag/german,/turf/floor/plating/cobblestone/vertical/dark,/area/prishtina)
+"aH" = (/turf/floor/plating/beach/water,/area/prishtina)
+"aI" = (/obj/structure/light/small{dir = 8},/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/main_area/inside)
+"aJ" = (/obj/structure/light/small{dir = 4},/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/main_area/inside)
+"aK" = (/obj/structure/closet/crate/lugerammo,/obj/structure/bed/chair/office/dark{icon_state = "F6"},/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"aL" = (/obj/structure/closet/crate/steel,/obj/structure/bed/chair/office/dark{icon_state = "F6"},/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"aM" = (/obj/structure/window/sandbag,/turf/floor/plating/grass/wild,/area/prishtina)
+"aN" = (/obj/structure/closet/crate/wood,/obj/structure/bed/chair/office/dark{icon_state = "F6"},/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"aO" = (/obj/structure/light/small{dir = 8},/obj/structure/bed/chair/office/dark{icon_state = "F6"},/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"aP" = (/obj/structure/bed/chair/office/dark{icon_state = "F6"},/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"aQ" = (/obj/effect/landmark{name = "JoinLateCivilian"},/turf/floor/carpet,/area/prishtina/houses)
+"aR" = (/obj/effect/landmark{name = "JoinLateSS"},/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"aS" = (/obj/effect/landmark{name = "JoinLateSS-Officer"},/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"aT" = (/obj/structure/wild/burnedtree,/turf/floor/plating/grass/wild,/area/prishtina)
+"aU" = (/obj/structure/simple_door/key_door/german,/obj/structure/bed/chair/office/dark{icon_state = "F6"},/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"aV" = (/obj/structure/table/wood,/obj/item/weapon/reagent_containers/food/drinks/bottle/small/beer,/turf/floor/carpet,/area/prishtina/houses)
+"aW" = (/obj/effect/landmark{name = "JoinLateHeerDr"},/turf/floor/carpet,/area/prishtina/houses)
+"aX" = (/obj/structure/bed/chair/wood/red,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"aY" = (/obj/structure/light/small{dir = 1},/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"aZ" = (/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"ba" = (/obj/structure/window/sandbag{tag = "icon-sandbag (NORTH)"; icon_state = "sandbag_33%"; dir = 8},/turf/floor/carpet,/area/prishtina/houses)
+"bb" = (/obj/effect/landmark{name = "JoinLateSS"},/turf/floor/carpet,/area/prishtina/houses)
+"bc" = (/turf/floor/carpet,/area/prishtina/houses)
+"bd" = (/obj/structure/sign/redcross,/turf/wall/iron,/area/prishtina/houses)
+"be" = (/obj/structure/table/wood,/obj/item/weapon/reagent_containers/food/drinks/bottle/wine,/turf/floor/carpet,/area/prishtina/houses)
+"bf" = (/obj/structure/table/wood,/obj/item/weapon/reagent_containers/food/drinks/bottle/small/beer,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"bg" = (/obj/structure/sign/wide/carpet,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"bh" = (/obj/structure/table/wood,/obj/item/weapon/reagent_containers/food/drinks/bottle/wine,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"bi" = (/obj/structure/closet/crate/panzerfaust,/turf/floor/carpet,/area/prishtina/houses)
+"bj" = (/obj/structure/light/small{dir = 1},/turf/floor/carpet,/area/prishtina/houses)
+"bk" = (/obj/structure/window/sandbag{tag = "icon-sandbag (NORTH)"; icon_state = "sandbag_66%"; dir = 8},/turf/floor/carpet,/area/prishtina/houses)
+"bl" = (/obj/structure/table/wood,/turf/floor/tiled{icon_state = "cafeteria"},/area/prishtina/houses)
+"bm" = (/obj/structure/closet/crate/german_grenade,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "hydrofloor"},/area/prishtina/houses)
+"bn" = (/obj/structure/closet/crate/mp40kammo,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "hydrofloor"},/area/prishtina/houses)
+"bo" = (/obj/structure/light/small{dir = 1},/obj/structure/closet/crate/mp40kammo,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "hydrofloor"},/area/prishtina/houses)
+"bp" = (/obj/structure/closet/crate/mg34belt,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "hydrofloor"},/area/prishtina/houses)
+"bq" = (/obj/structure/closet/crate/kar98kammo,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "hydrofloor"},/area/prishtina/houses)
+"br" = (/obj/structure/closet/crate/german_grenade2,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "hydrofloor"},/area/prishtina/houses)
+"bs" = (/obj/structure/window/sandbag{tag = "icon-sandbag (NORTH)"; icon_state = "sandbag_66%"; dir = 4},/obj/structure/closet/crate/kar98kammo,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "hydrofloor"},/area/prishtina/houses)
+"bt" = (/obj/structure/oven,/turf/floor/tiled{icon_state = "cafeteria"},/area/prishtina/houses)
+"bu" = (/obj/effect/landmark{name = "JoinLateHeerChef"},/turf/floor/tiled{icon_state = "cafeteria"},/area/prishtina/houses)
+"bv" = (/obj/structure/closet/crate/german_smoke_grenade,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "hydrofloor"},/area/prishtina/houses)
+"bw" = (/obj/structure/closet/crate/mp43ammo,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "hydrofloor"},/area/prishtina/houses)
+"bx" = (/obj/structure/sign/wide96/ger_bigbanner,/turf/wall/iron,/area/prishtina/houses)
+"by" = (/obj/structure/window/sandbag{tag = "icon-sandbag (NORTH)"; icon_state = "sandbag_66%"; dir = 8},/obj/structure/window/sandbag{tag = "icon-sandbag (NORTH)"; icon_state = "sandbag"; dir = 1},/turf/floor/plating/cobblestone/vertical/dark,/area/prishtina)
+"bz" = (/obj/structure/window/sandbag{tag = "icon-sandbag (NORTH)"; icon_state = "sandbag"; dir = 1},/turf/floor/plating/cobblestone/vertical/dark,/area/prishtina)
+"bA" = (/obj/structure/window/sandbag{tag = "icon-sandbag (NORTH)"; icon_state = "sandbag"; dir = 1},/obj/structure/window/sandbag{tag = "icon-sandbag (NORTH)"; icon_state = "sandbag_33%"; dir = 4},/turf/floor/plating/cobblestone/vertical/dark,/area/prishtina)
+"bB" = (/obj/structure/window/sandbag{tag = "icon-sandbag (WEST)"; icon_state = "sandbag"; dir = 8},/obj/structure/window/sandbag{tag = "icon-sandbag (NORTH)"; icon_state = "sandbag_33%"; dir = 1},/turf/floor/plating/cobblestone/vertical/dark,/area/prishtina)
+"bC" = (/obj/structure/window/sandbag{tag = "icon-sandbag (EAST)"; icon_state = "sandbag"; dir = 4},/obj/structure/window/sandbag{tag = "icon-sandbag (EAST)"; icon_state = "sandbag"; dir = 4},/obj/structure/window/sandbag{tag = "icon-sandbag (NORTH)"; icon_state = "sandbag_33%"; dir = 1},/turf/floor/plating/cobblestone/vertical/dark,/area/prishtina)
+"bD" = (/obj/structure/window/sandbag{tag = "icon-sandbag (WEST)"; icon_state = "sandbag"; dir = 8},/turf/floor/plating/cobblestone/vertical/dark,/area/prishtina)
+"bE" = (/turf/wall/rockwall,/area/prishtina/houses)
+"bF" = (/obj/structure/table/wood,/obj/item/weapon/reagent_containers/food/drinks/bottle/wine,/turf/floor/tiled{icon_state = "neutralfull"},/area/prishtina/houses)
+"bG" = (/obj/structure/simple_door/key_door/german,/turf/floor/plating/cobblestone/vertical,/area/prishtina)
+"bH" = (/turf/wall/rockwall,/area/prishtina/german)
+"bI" = (/turf/wall/iron,/area/prishtina/german/main_area/inside)
+"bJ" = (/obj/structure/optable,/turf/floor/carpet,/area/prishtina/houses)
+"bK" = (/obj/structure/closet/crate/medical,/obj/item/weapon/storage/firstaid/surgery,/turf/floor/carpet,/area/prishtina/houses)
+"bL" = (/obj/structure/bed/chair/wood/red{tag = "icon-wooden_chair_red (EAST)"; icon_state = "wooden_chair_red"; dir = 4},/turf/floor/carpet,/area/prishtina/houses)
+"bM" = (/obj/structure/table/wood,/turf/floor/carpet,/area/prishtina/houses)
+"bN" = (/obj/structure/bed/chair/wood/red{tag = "icon-wooden_chair_red (WEST)"; icon_state = "wooden_chair_red"; dir = 8},/turf/floor/carpet,/area/prishtina/houses)
+"bO" = (/obj/structure/light/small{dir = 4},/turf/floor/carpet,/area/prishtina/houses)
+"bP" = (/obj/structure/light/small{dir = 8},/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"bQ" = (/obj/structure/table/wood,/obj/item/weapon/phone,/obj/structure/light/small{dir = 8},/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"bR" = (/obj/structure/table/wood,/obj/structure/light/small{dir = 4},/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"bS" = (/obj/structure/light/small{dir = 1},/turf/floor/tiled{icon_state = "neutralfull"},/area/prishtina/houses)
+"bT" = (/obj/structure/table/wood,/turf/floor/tiled{icon_state = "neutralfull"},/area/prishtina/houses)
+"bU" = (/turf/floor/tiled{icon_state = "neutralfull"},/area/prishtina/houses)
+"bV" = (/turf/floor/tiled{icon_state = "neutralfull"},/area/prishtina/german/main_area/inside)
+"bW" = (/obj/structure/light/small{dir = 4},/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"bX" = (/obj/structure/light/small{dir = 8},/turf/floor/carpet,/area/prishtina/houses)
+"bY" = (/obj/structure/closet/crate/sandbags,/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/main_area/inside)
+"bZ" = (/obj/structure/sign/portrait/hitler{pixel_x = -32},/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"ca" = (/obj/structure/bed/chair/wood/red{tag = "icon-wooden_chair_red (EAST)"; icon_state = "wooden_chair_red"; dir = 4},/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"cb" = (/obj/structure/bed/chair/wood/red{tag = "icon-wooden_chair_red (WEST)"; icon_state = "wooden_chair_red"; dir = 8},/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"cc" = (/obj/structure/sign/portrait/hitler{pixel_x = 32},/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"cd" = (/obj/structure/vending/germanequipment,/turf/floor/carpet,/area/prishtina/houses)
+"ce" = (/obj/structure/window/sandbag{tag = "icon-sandbag (NORTH)"; icon_state = "sandbag_66%"; dir = 4},/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"cf" = (/obj/structure/window/sandbag{tag = "icon-sandbag (NORTH)"; icon_state = "sandbag_66%"; dir = 8},/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"cg" = (/obj/structure/window/sandbag{tag = "icon-sandbag (NORTH)"; icon_state = "sandbag_33%"; dir = 4},/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"ch" = (/obj/structure/window/sandbag{tag = "icon-sandbag (WEST)"; icon_state = "sandbag"; dir = 8},/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"ci" = (/obj/structure/window/sandbag,/turf/floor/carpet,/area/prishtina/houses)
+"cj" = (/obj/structure/siren,/turf/floor/plating/cobblestone/vertical,/area/prishtina)
+"ck" = (/obj/structure/light/small,/turf/floor/carpet,/area/prishtina/houses)
+"cl" = (/obj/structure/window/sandbag,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"cm" = (/obj/structure/table/wood,/obj/structure/light/small,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"cn" = (/obj/structure/window/sandbag,/obj/structure/window/sandbag{tag = "icon-sandbag (WEST)"; icon_state = "sandbag"; dir = 8},/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "grimy"},/area/prishtina/houses)
+"co" = (/obj/item/weapon/gun/projectile/automatic/stationary/kord/mg34,/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/main_area/inside)
+"cp" = (/obj/structure/window/sandbag{tag = "icon-sandbag (EAST)"; icon_state = "sandbag"; dir = 4},/turf/floor/plating/cobblestone/vertical/dark,/area/prishtina)
+"cq" = (/obj/structure/simple_door/key_door/german,/turf/floor/tiled{icon_state = "cafeteria"},/area/prishtina/houses)
+"cr" = (/obj/effect/landmark{name = "Observer-Start"},/turf/wall/gold,/area/prishtina)
+"cs" = (/obj/structure/multiz/stairs{icon_state = "rampbottom"; dir = 8},/turf/wall/iron,/area/prishtina/houses)
+"ct" = (/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/main_area/inside)
+"cu" = (/turf/floor/tiled{icon_state = "cafeteria"},/area/prishtina/houses)
+"cv" = (/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/houses)
+"cw" = (/obj/structure/closet/crate/rations/german_meat,/obj/structure/light/small{dir = 1},/turf/floor/tiled{icon_state = "cafeteria"},/area/prishtina/houses)
+"cx" = (/obj/structure/light/small{dir = 1},/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/main_area/inside)
+"cy" = (/obj/structure/closet/crate/bettymines,/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/main_area/inside)
+"cz" = (/obj/structure/closet/crate/rations/german_liquids,/turf/floor/tiled{icon_state = "cafeteria"},/area/prishtina/houses)
+"cA" = (/obj/structure/closet/freezer/fridge,/turf/floor/tiled{icon_state = "cafeteria"},/area/prishtina/houses)
+"cB" = (/obj/structure/window/sandbag{tag = "icon-sandbag (WEST)"; icon_state = "sandbag"; dir = 8},/obj/structure/window/sandbag{tag = "icon-sandbag_66%"; icon_state = "sandbag_66%"; dir = 2},/turf/floor/plating/cobblestone/vertical/dark,/area/prishtina)
+"cC" = (/obj/structure/multiz/stairs{icon_state = "rampup"; dir = 4},/turf/wall/iron,/area/prishtina/houses)
+"cD" = (/obj/structure/table/wood,/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/houses)
+"cE" = (/obj/structure/window/sandbag{tag = "icon-sandbag (EAST)"; icon_state = "sandbag"; dir = 4},/obj/structure/window/sandbag{tag = "icon-sandbag_66%"; icon_state = "sandbag_66%"; dir = 2},/turf/floor/plating/cobblestone/vertical/dark,/area/prishtina)
+"cF" = (/obj/structure/window/sandbag{tag = "icon-sandbag (NORTH)"; icon_state = "sandbag_33%"; dir = 8},/turf/floor/tiled{icon_state = "cafeteria"},/area/prishtina/houses)
+"cG" = (/obj/structure/window/sandbag,/obj/structure/window/sandbag{tag = "icon-sandbag (NORTH)"; icon_state = "sandbag_66%"; dir = 8},/turf/floor/plating/cobblestone/vertical/dark,/area/prishtina)
+"cH" = (/obj/structure/pot,/turf/floor/tiled{icon_state = "cafeteria"},/area/prishtina/houses)
+"cI" = (/obj/structure/window/sandbag{tag = "icon-sandbag_66%"; icon_state = "sandbag_66%"; dir = 2},/turf/floor/tiled{icon_state = "cafeteria"},/area/prishtina/houses)
+"cJ" = (/obj/structure/window/sandbag,/turf/floor/tiled{icon_state = "cafeteria"},/area/prishtina/houses)
+"cK" = (/obj/structure/sink{tag = "icon-sink (EAST)"; icon_state = "sink"; dir = 4; step_x = 0; step_y = 0; pixel_x = 14},/turf/floor/tiled{icon_state = "cafeteria"},/area/prishtina/houses)
+"cL" = (/obj/structure/window/sandbag,/turf/floor/tiled/steel{tag = "icon-floor"; icon_state = "hydrofloor"},/area/prishtina/houses)
+"cM" = (/turf/wall/wood,/area/prishtina/houses)
+"cN" = (/obj/structure/window/sandbag{tag = "icon-sandbag (EAST)"; icon_state = "sandbag"; dir = 4},/obj/structure/window/sandbag,/turf/floor/plating/cobblestone/vertical/dark,/area/prishtina)
+"cO" = (/obj/structure/light/small,/turf/floor/plating/cobblestone/vertical/dark,/area/prishtina)
+"cP" = (/obj/structure/bed/chair/wood,/obj/structure/light/small{dir = 1},/obj/structure/bed/chair/office/dark{icon_state = "F6"},/obj/effect/landmark{name = "JoinLateSS-Officer"},/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"cQ" = (/obj/structure/light/small{dir = 8},/turf/floor/tiled{icon_state = "neutralfull"},/area/prishtina/houses)
+"cR" = (/obj/structure/filingcabinet/chestdrawer,/obj/structure/bed/chair/office/dark{icon_state = "F6"},/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"cS" = (/obj/structure/closet/crate/barbwire,/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"cT" = (/obj/structure/closet/crate/flammenwerfer_fueltanks,/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"cU" = (/obj/structure/closet/crate/german_grenade,/obj/structure/light/small{dir = 1},/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"cV" = (/obj/structure/closet/crate/german_grenade2,/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"cW" = (/obj/structure/window/sandbag{tag = "icon-sandbag_66%"; icon_state = "sandbag_66%"; dir = 2},/turf/floor/plating/cobblestone/vertical/dark,/area/prishtina)
+"cX" = (/obj/structure/window/sandbag,/turf/floor/plating/cobblestone/vertical/dark,/area/prishtina)
+"cY" = (/obj/structure/barricade/steel,/obj/structure/barbwire{dir = 4; icon_state = "barbwire"; pixel_y = 0; tag = "icon-barbwire (EAST)"},/turf/floor/plating/cobblestone/vertical/dark,/area/prishtina)
+"cZ" = (/obj/structure/window/sandbag{tag = "icon-sandbag (EAST)"; icon_state = "sandbag"; dir = 4},/turf/floor/plating/grass/wild,/area/prishtina)
+"da" = (/obj/structure/window/sandbag{tag = "icon-sandbag (EAST)"; icon_state = "sandbag"; dir = 4},/turf/floor/plating/cobblestone/vertical,/area/prishtina)
+"db" = (/obj/structure/table/wood,/turf/floor/plating/cobblestone/vertical/dark,/area/prishtina)
+"dc" = (/obj/structure/table/wood,/obj/item/weapon/reagent_containers/food/drinks/bottle/wine,/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/main_area/inside)
+"dd" = (/obj/structure/window/sandbag,/turf/floor/tiled{icon_state = "neutralfull"},/area/prishtina/houses)
+"de" = (/obj/structure/light/small{dir = 4},/turf/floor/tiled{icon_state = "neutralfull"},/area/prishtina/houses)
+"df" = (/obj/structure/closet/crate/german_smoke_grenade,/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"dg" = (/obj/structure/simple_door/key_door/german,/turf/floor/tiled{icon_state = "neutralfull"},/area/prishtina/houses)
+"dh" = (/obj/structure/light/small,/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/houses)
+"di" = (/obj/structure/window/classic/reinforced,/obj/structure/bed/chair/office/dark{icon_state = "F6"},/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"dj" = (/obj/structure/table/wood,/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/main_area/inside)
+"dk" = (/obj/structure/closet/crate/mg34ammo,/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/main_area/inside)
+"dl" = (/obj/structure/bed,/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/prison)
+"dm" = (/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/prison)
+"dn" = (/obj/structure/toilet{tag = "icon-toilet00 (EAST)"; icon_state = "toilet00"; dir = 8},/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/prison)
+"do" = (/obj/structure/toilet{tag = "icon-toilet00 (EAST)"; icon_state = "toilet00"; dir = 4},/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/prison)
+"dp" = (/obj/structure/light/small/red{dir = 8},/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/prison)
+"dq" = (/obj/structure/simple_door/key_door/german{name = "Isolation"},/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/main_area/inside)
+"dr" = (/obj/structure/simple_door/key_door/german{name = "Isolation"},/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/prison)
+"ds" = (/obj/structure/light/small/red{dir = 4},/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/prison)
+"dt" = (/obj/structure/table/wood,/obj/item/weapon/reagent_containers/food/drinks/bottle/wine,/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/prison)
+"du" = (/obj/structure/table/wood,/obj/item/weapon/reagent_containers/food/drinks/drinkingglass/wine,/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/prison)
+"dv" = (/obj/item/weapon/stool/prison,/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/prison)
+"dw" = (/obj/structure/table/wood,/obj/structure/bed/chair/office/dark{icon_state = "F6"},/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"dx" = (/obj/structure/sink{dir = 8; pixel_x = -12},/obj/structure/bed/chair/office/dark{icon_state = "F6"},/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"dy" = (/obj/structure/closet/crate/panzerfaust,/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"dz" = (/obj/structure/toilet,/obj/structure/bed/chair/office/dark{icon_state = "F6"},/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"dA" = (/obj/structure/closet/crate/mp40kammo,/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"dB" = (/obj/structure/closet/crate/kar98kammo,/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"dC" = (/obj/structure/simple_door/wood,/obj/structure/bed/chair/office/dark{icon_state = "F6"},/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"dD" = (/obj/structure/siren,/turf/floor/plating/grass/wild,/area/prishtina)
+"dE" = (/obj/structure/closet/crate/mg34belt,/turf/floor/plating/grass/wild,/area/prishtina)
+"dF" = (/obj/structure/window/classic/reinforced,/turf/wall/gold,/area/prishtina/houses)
+"dG" = (/obj/structure/bed,/obj/structure/bed/chair/office/dark{icon_state = "F6"},/obj/effect/landmark{name = "JoinLateSS"},/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"dH" = (/obj/structure/closet/crate/medical,/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/main_area/inside)
+"dI" = (/obj/structure/light/small,/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/main_area/inside)
+"dJ" = (/turf/floor/plating/dirt,/area/prishtina/no_mans_land/invisible_wall)
+"dK" = (/obj/structure/closet,/obj/item/ammo_magazine/mp40,/obj/item/ammo_magazine/mp40,/obj/item/ammo_magazine/mp40,/obj/item/ammo_magazine/mp40,/obj/item/weapon/gun/projectile/submachinegun/mp40,/obj/structure/bed/chair/office/dark{icon_state = "F6"},/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"dL" = (/turf/floor/plating/grass/wild,/area/prishtina/no_mans_land/invisible_wall)
+"dM" = (/turf/floor/plating/cobblestone/vertical,/area/prishtina/no_mans_land/invisible_wall)
+"dN" = (/obj/structure/barricade,/obj/structure/barbwire{dir = 4},/turf/floor/plating/dirt,/area/prishtina/no_mans_land/invisible_wall)
+"dO" = (/obj/structure/barricade,/obj/structure/barbwire{dir = 4},/turf/floor/dirt,/area/prishtina/no_mans_land/invisible_wall)
+"dP" = (/obj/structure/barricade,/obj/structure/barbwire{dir = 4},/turf/floor/plating/grass/wild,/area/prishtina/no_mans_land/invisible_wall)
+"dQ" = (/obj/structure/barricade,/obj/structure/barbwire{dir = 4},/obj/structure/sign/securearea,/turf/floor/plating/grass/wild,/area/prishtina/no_mans_land/invisible_wall)
+"dR" = (/obj/structure/sign/wide/barrier{anchored = 0},/turf/floor/plating/cobblestone/vertical,/area/prishtina/no_mans_land/invisible_wall)
+"dS" = (/obj/structure/bed,/obj/structure/light/small,/obj/structure/bed/chair/office/dark{icon_state = "F6"},/obj/effect/landmark{name = "JoinLateSS"},/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"dT" = (/obj/structure/oven,/obj/structure/bed/chair/office/dark{icon_state = "F6"},/turf/floor/plating/grass/wild,/area/prishtina/houses)
+"dU" = (/obj/structure/anti_tank,/turf/floor/plating/dirt,/area/prishtina)
+"dV" = (/obj/structure/anti_tank,/turf/floor/plating/grass/wild,/area/prishtina)
+"dW" = (/obj/structure/anti_tank,/turf/floor/dirt,/area/prishtina)
+"dX" = (/obj/effect/landmark{name = "JoinLateRAXO"},/turf/floor/plating/dirt,/area/prishtina)
+"dY" = (/obj/effect/landmark{name = "JoinLateRAMedic"},/turf/floor/plating/grass/wild,/area/prishtina)
+"dZ" = (/obj/effect/landmark{name = "JoinLateRAEng"},/turf/floor/plating/dirt,/area/prishtina)
+"ea" = (/obj/effect/landmark{name = "JoinLateRA-S2"},/turf/floor/plating/grass/wild,/area/prishtina)
+"eb" = (/obj/effect/landmark{name = "JoinLateRA-S4"},/turf/floor/plating/grass/wild,/area/prishtina)
+"ec" = (/obj/effect/landmark{name = "JoinLateRASO"},/turf/floor/plating/grass/wild,/area/prishtina)
+"ed" = (/obj/effect/landmark{name = "JoinLateRA-S2-Leader"},/turf/floor/plating/grass/wild,/area/prishtina)
+"ee" = (/obj/effect/landmark{name = "JoinLateRA-S4-Leader"},/turf/floor/plating/grass/wild,/area/prishtina)
+"ef" = (/obj/effect/landmark{name = "JoinLateRAMedic"},/turf/floor/plating/cobblestone/vertical,/area/prishtina)
+"eg" = (/obj/effect/landmark{name = "JoinLateRA-S2"},/turf/floor/plating/cobblestone/vertical,/area/prishtina)
+"eh" = (/obj/effect/landmark{name = "JoinLateRA-S4"},/turf/floor/plating/cobblestone/vertical,/area/prishtina)
+"ei" = (/obj/effect/landmark{name = "JoinLateRA-S1"},/turf/floor/plating/cobblestone/vertical,/area/prishtina)
+"ej" = (/obj/effect/landmark{name = "JoinLateRA-S1-Leader"},/turf/floor/plating/cobblestone/vertical,/area/prishtina)
+"ek" = (/obj/effect/landmark{name = "JoinLateRA-S3"},/turf/floor/plating/cobblestone/vertical,/area/prishtina)
+"el" = (/obj/effect/landmark{name = "JoinLateRAMP"},/turf/floor/plating/cobblestone/vertical,/area/prishtina)
+"em" = (/obj/effect/landmark{name = "JoinLateRACO"},/turf/floor/plating/cobblestone/vertical,/area/prishtina)
+"en" = (/obj/tank/american,/turf/floor/plating/cobblestone/vertical,/area/prishtina)
+"eo" = (/obj/effect/landmark{name = "JoinLateRA-S3-Leader"},/turf/floor/plating/cobblestone/vertical,/area/prishtina)
+"ep" = (/obj/effect/landmark{name = "JoinLateRAMedic"},/turf/floor/plating/dirt,/area/prishtina)
+"eq" = (/obj/effect/landmark{name = "JoinLateRA-S3"},/turf/floor/plating/dirt,/area/prishtina)
+"er" = (/obj/effect/landmark{name = "JoinLateRAMP"},/turf/floor/plating/dirt,/area/prishtina)
+"es" = (/obj/structure/reagent_dispensers/beerkeg,/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/houses)
+"et" = (/obj/effect/landmark{name = "JoinLateCivilian"},/turf/floor/tiled{icon_state = "lfweb"},/area/prishtina/german/prison)
+
+(1,1,1) = {"
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiamaiaiacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacaiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaamaaaiaiaiaiaiacacacacacacacacacacacacacac
+acacacacacacacacacacacaiaiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaamaaaaaaaaaaaiaiaiaiaiacacacacacacacacacac
+acacacacacacacacacacaiaiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaamaaaaaaaaaaaaaaaaaaaiaiaiacacacacacacacac
+acacacacacacacacacacaiaiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaEaaaaaaaaaaaaaaaaaaaaaaaiaiaiacacacacacac
+acacacacacacacacacacacaiaiaaaaababababababababababababababababababababababaaaaaEaaaaaaaaaaaaaaaaaaaaaaaaaaaiaiacacacacac
+acacacacacacacacacacacacaiaiaaaaababababababababababababababababababababaaaaaaaEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaiacacacacac
+acacacacacacacacacacacacacaiaaaaaaaaaaaaaaaaaaaaaaababaaaaaaaaaaaaaaaaaaaaaaaaaEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaiaiacacacac
+acacacaiaiaiaiaiacacacacananapananapananaaaaaaaaaaababaaaaaaaaaaananapananapananaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaiacacacac
+acacaicMcMcMcMcMcMacacacananananaqararanaaaMaMaMaaababaaaMaMaMaaanararasananananaEaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDacacac
+acacaicMaoaKaLaNcMaiaiacananananaqararananatatatapauauapatatatananararasananananaiaiaiaaaaaaaaaaaaaaaaaaaaaiaiaiaiacacac
+acacaicMaOaPaPaNcMaaaiaFanananananawawanayaXaXaXaYaZaZaYaXaXaXayanawawanananananacacaiaiaiaiaiaiaiaiaiaiaiaiacacacacacac
+acaiaicMaPaPaPaPcMaaaaaFatbabcbjaQbcbcauaZaRaRaRaZaSaSaZaRaRaRaZaubcbcbJbjbJbKanacacacacacacacacacacacacacacacacacacacac
+acaiaacMcMaUcMcMcMaaaaaFatbkbLaVbMbNbcauaZaZaZaZaZaSaSaZaZaZaZaZaubcbcbcaWbcbcanacacacacacacacacacacacacacacacacacacacac
+acaiaaaaaaabaaaaaaaaaxaFanbbbLbMbMbNbOanbPaZapanbQaZaZbRanapaZbWbdbXbbbMbMbMbKanacacacacacacacacacacacacacacacacacacacac
+acaiaxaaaaabaaaaaaaaaaaFanbbbLbeaVbNbbanbZaZbfapcaaZaZcbapayaZccanbcbbbcbcbccdanacacacacacacacacacacacacacacacacacacacac
+acaiaaaaaaabaaaaaaaaaxaFatbkbLaVbMbNbcauaZaZaZceaZaZaZaZcfaZaZaZaubcbkaWbcbccdanacacacacacacacacacacacacacacacacacacacac
+acaiaaaaaxabaaaaaaaaaaaFatbabLbMbMbNbcauaZaZaZcgaZaZaZaZchaZaZaZaubcbkbcbccicianacacaiaiaiacacacacacacacacacacacacacacac
+acaiaaaaaaabaaaaaxaaaaaFanbcbcckaQbcbbanayclclclcmbgaZcmcnclclbhanbibMbMckbcbcanaFaiaiaaaiaiaiaiaiaiaiaiaiacacacacacacac
+acaDaDaDaDbGaDaDaDaDaDcYanancqananananananatatatapauauapatatatananananananawananaFaaaaaaaxaaaaaaaaaaaaaaaiaiaiaiaiaiaiac
+acaiaaaaaaabaxaaaaaaaaaFatblcucucwczcAanaFaFaFaFaFababaFaFaFaFaFanbmbnbobparbqataFaxaaaaaaaaaaaaaxaaaaaaaxaaaaaxaaaaaiac
+acaiaaaxaaabaaaxaaaaaaaFatcFcucucucucuanaFababababababababababaFanbrararararbsataFaaaxaaaaaaaaaxaaaaaaaaaaaaaaaaaaaaaiac
+acaiaaaaaaabaaaaaaaxaaaFanbtcHcIcJbucKanaFababababababababababaFanbvbwcLcLbpbqancYaDaDaDaDaDaDaEaEaaaaaxaaaaaaaxaaaaaiac
+acaiaaaaaaabaxaaaaaaaaaFananapatatananbxcWaAababaBaCaAaBababaBcXbxananatatapananaFaaaaaxaaaaaaaxaDaaaaaaaaaaaaaaaaaxaiac
+acaiaxaaaaabaaaaaxaaaaaFaFaFaFaFaFaFaFaFaFababababababababababaFaFaFaFaFaFaFaFaFaFaaaaaaaaaaaaaaaDaEaEaEaEaEaEaEaEaEaDac
+acaiaaaaaxabababababababababababababababababababababababababababababababababababababababaaaxaaaaaDaaaaaaaaaxaaaaaaaiacac
+acaiaaaaaaaaabababababababababababababababababababababababababababababababababababababababaaaaaxaDaaaaaaaaaaaaaaaaaiacac
+acaiaiaaaaaxabababababababababababababababbybzbzbzababbzbzbzbAababababababababababababababaaaaaaaDaaaxaaaaaaaaaaaxaiacac
+acacaiaaaaaaababababababababababababababbBaGababababababababaGbCababababababababababababababaaaacZaaaaaaaaaaaaaaaaaiacac
+acacaiaxaaaaababababababababababababababbDabababaHaHaHaHabcjabcpababababababababababababababababaFabababababaaaaaaaiacac
+acacaiaaaaaaababababababababababababababbDabababaHadcraHabababcpababababababababababababababababaFabababababaaaxaaaiacac
+acacaiaaaxaaababababababababababababababbDabababaHadadaHabababcpababababababababababababababababaFabababababaaaaaaaiacac
+acacaiaiaaaaababababababababababababababbDabababaHaHaHaHabababcpababababababababababababababababaFabababababaaaaaaaiacac
+acacacaiaaaaababababababababababababababcBaGababababababababaGcEababababababababababababababaaaacZaaababababaaaaaiaiacac
+acacacaiaaaxaaababababababababababababababcGcXcXcXababcXcXcXcNababababababababababababababaaaaaaaEaaababababaaaxaiacacac
+acacacaiaiaaaaababababababababababababababababababababababababababababababababababababababaaaxaaaEaaababababaaaaaiacacac
+acacacacaiaaaaaaababababababababababababababababababababababababababdaabababababababababaaaaaaaaaEaxababababaaaaaiacacac
+acacacacaiaaaxaaaaaaabababababababababaFaFaFabababaFaFaFabababaFaFaFdaabababababababaaaaaaaxaaaaaEaaababababaaaaaiacacac
+acacacacaiaiaaaaaxaaaaaaaaaaaaaaaxadadaFaFaFadadadaFaFaFadadadaFaFaFadadaaaaaaaaaaaiaiaiaiaiaiaiaEaaababababaaaxaiacacac
+acacacacacaiaiaaaaaaaxaaaaaxaaaaaaaddbaFaFaFaFadaFaFaFaFaFadaFaFaFaFaFadaaaaaxaaaaaiacacacacacacaEaaababababaaaaaiacacac
+acacacacacacaiaiaaaxaaaaaaaaaaaaaaaddbaFaFaFaFaddbaFaFaFaFaddbaFaFaFaFadaaaaaaaaaiaiacacacacacacaEaaababababaaaiaiacacac
+acacacacacacacaiaiaiaiaiaiaaaaaxaaaddbaFaFaFaFaddbaFaFaFaFaddbaFaFaFaFadaaaiaiaiaiacacacacacacacaEaaababababaaaiacacacac
+acacacacacacacacacacacacaiaiaiaiaiaddbaFaFaFaFaddbaFaFaFaFaddbaFaFaFaFadaiaiacacacacacacacacacacaiaaababababaaaiacacacac
+acacacacacacacacacacacacacacacacacaddbaFcOaFaFaddbaFcOaFaFaddbaFcOaFaFadacacacacacacacacacacacacaiaaababababaaaiacacacac
+acacacacacacacacacacacacacacacacacadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacaiaiaaababababaaaiaiacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacaiaxaaababababaaaaaiacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacaccMcMcMcMcMcMcMcMcMcMcMacaiaiaaaaababababaxaaaiacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacaiaiafaiaicMaPcPcRcMcScTcUcVdfcMcMcMaaaaaaababababaaaaaiacacac
+acacacacacacacacacacacaiaiaiaiaiaiaiaiacacacacacaiaiaiaiaiaiaaafaiaidiaPdwdwcMdxaPaPaPdycMdzcMaaaaaxababababaaaaaiacacac
+acacacacacacacacacaiaiaiaaaxagagaxaaaiaiaiaiaiaiaiaaahaaaxaaaaafaaaicMaPaPaPcMdAdAaPdBdBcMdCcMaaaaaaababababaaaaaiaiacac
+acacacacacacacaiaiagagagaxagagagagaaaTaaahaxaaaxaaaaahagaaaaaaafaaaecMcMaUcMcMcMcMaUcMcMcMaaaxaaaaaaababababaaaaaaaiacac
+acacacacacaiaiaiaaagaxaaaaaaagaaaaaaaaaaahaaaaaaaaaxaaagaaaaaxafaaaaaxazaaaaaaaaaaaaaaazdDaaaaaaaaaaababababaaaaaaaiacac
+acacacacaiaiagaaababababababababababababagabababababababababababababababababababababababababababababababababaaaxaaaiacac
+acacacaiagagaxaaababababababababababababababababababababababababababababababababababababababababababababababaaaaaiaiacac
+acacacaiagagaaaaababababababababababababababababababababababababababababababababababababababababababababababaaaaaiacacac
+acacacaiagaaaaaxabababababababababababagabababababagagabababababababababababababababababababababababababababaaaiaiacacac
+acacacaiaaaaagaaababababaaaaaaaaaxaaaaahagaaaaaxaaaaahaxaaaaaaajaiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaiaiacacacac
+acacacaiaaaxaaaaababababaaaxaaaaaaaaaaahaxaaaaahagaxahaaagaxaaakaaaaaaaacMcMcMaUcMcMcMcMavavaaaaaxaaaaaiaiaiaiacacacacac
+acacacaiaaaaaaaaababababaaaaaaaxaaaxaiaiaiaiaialaiaiaiaxahagaaafaaaaavavcMaPaPaPaPaPaPcMaaaaaaaaaiaiaiaiacacacacacacacac
+acacacaiagagaaaaababababaaaxaaaaaiaiaiacacacacacacacaiaialaxaaafaxdEaaaadidGaPdGaPdGdKdFaaaiaiaiaiacacacacacacacacacacac
+acacacdNdOdOdPdQdRdMdMdMdQdPdOdOdNacacacacacacacacacacacaiaiaiafaiaiaiaxcMdGaPdSaPdGdTcMaiaiacacacacacacacacacacacacacac
+acacacaiagaaaaaaababababaaagagagacacacacacacacacacacacacacacacacacacaiaicMcMcMcMcMcMcMcMacacacacacacacacacacacacacacacac
+acacacdUaaaaaadVababababaaagdWagacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacaiaaaaaaaaababababaaaaagagacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacagaaaaaaaaababababdVaaaaaiagacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacaiaiaidXaiacacacacacac
+acacacagagaaaaaaababababaaaaaaaaaiaiacacacacacacacacacacaiaiaiaiacacacacacacacacacacacacacaiaiaiaiaidYaaaaaiaiaiaiacacac
+acacacagagaaaadVababababaaaaaaaaaaaidJaiaiaiaiaiaiaiaiaiaiaaaaaiaiaiaiaiaidZdZdZdZaiaiaiaiaieaeaeaaaaaaaebebebaaaiaiaiac
+acacagagagaaaaaaababababaaaaaaaaaaaadLaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaecaaedaaeaeaeaaaeeaaebebebaaaaaaaiai
+acacagagaaaaaaaaababababababababababdMabababababababababababababababababababababefabababababegegegabababehehehababababab
+acacaidUaaaaaaaaababababababababababdMababababababababababababababababababababababababeieieiababababefababababababababab
+acacacaiaiaaaaaaababababababababababdMababababababababababababababababababababababejabeieieiabababekekekabelemababababab
+acacacacaiaiaiaaababababababababababdMababababababababababababababababababenabababababeieieiabeoabekekekabababababababab
+acacacacacacaiaiaiaiaiaiaiaiaiaiaiaidJaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiepaiaiaiaiaieqeqeqaiaieraiaiaiaiai
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+"}
+
+(1,1,2) = {"
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacbHbHbHbHbHbHbHanananananacacacacanananananbHbHbHbHbHbHbHacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacbHbHbHbHbHbHbHanbFbSbFananananananbFbSbTanbHbHbHbHbHbHbHacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacananananananananbTbUbFanesesesesanbTbUbTananananananananacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacanbcbccsanbEbEanbTbUbTancvcvcvcvanbFbUbTanbEbEancCbcbcanacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacanbcbccsanbEbEanbTbUbTancvcvcvcvanbTbUbTanbEbEancCbcbcanacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacapbXbcapanananancDcvcDancQdddddeancDcvcDananananapbcbOapacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacanbcbcbcbcbcbcbccvcvcvbUbUbUbUbUbUcvcvcvbcbcbcbcbcbcbcanacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacbHanbcbcckbcbcbcbccvdhcvbUbUbUbUbUbUcvdhcvbcbcbcbcckbcbcanacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacanananapananananananananandgdganananananananananapanananacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacandldmdnanbUbUbUbUandodmdlanacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacandpetdmdrbUbUbUbUdrdmetdsanacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacandtdudvanbUbUbUbUandvdudtanacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacananananancQbUbUdeanananananacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacandldmdnanbUbUbUbUandodmdlanacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacandpetdmdrbUbUbUbUdrdmetdsanacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacandtdudvanbUbUbUbUandvdudtanacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacbIbIbIbIbIbVbVbVbVbIbIbIbIbIacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacbIbYcoctcxbVbVbVbVcxctbYcybIacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacbIbIbIbIbIbIbIbYctctctbVbVbVbVctctctctbIbIbIbIbIbIbIbIacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacbIdcdcdcdcdjbIdkctctctbVbVbVbVctctctctbIdjdjdcdcdjdcbIacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacbIaIctctctctdqdHctctctbVbVbVbVctctctctdqctctctctctaJbIacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacbIctctctctctbIctctctdIbVbVbVbVdIctctctbIctctctctctctbIacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+"}
