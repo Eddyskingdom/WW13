@@ -674,7 +674,7 @@
 "mX" = (/obj/structure/underground{alpha = 135; icon_state = "rock"; layer = 4},/obj/structure/underground{alpha = 135; icon_state = "rock"; layer = 4},/turf/floor/dirt,/area/prishtina/void/civilian_basements{base_turf = /turf/floor/dirt; capturable = 0; name = "Underground"})
 "mY" = (/obj/item/weapon/gun/projectile/submachinegun/thompson,/obj/item/ammo_magazine/thompson_ammo,/turf/floor/plating/grass/wild,/area/prishtina/farm2{capturable = 0; icon_state = "red1"; name = "Forest"})
 "mZ" = (/obj/item/weapon/gun/projectile/shotgun/pump/combat/ithaca37,/turf/floor/plating/grass/wild,/area/prishtina/farm2{capturable = 0; icon_state = "red1"; name = "Forest"})
-"na" = (/obj/item/ammo_magazine/shotgun_ammobox/shell,/obj/item/ammo_magazine/shotgun_ammobox/shell,/turf/floor/plating/grass/wild,/area/prishtina/farm2{capturable = 0; icon_state = "red1"; name = "Forest"})
+"na" = (/obj/item/ammo_magazine/shogun_ammobox/shell,/obj/item/ammo_magazine/shogun_ammobox/shell,/turf/floor/plating/grass/wild,/area/prishtina/farm2{capturable = 0; icon_state = "red1"; name = "Forest"})
 "nb" = (/obj/item/ammo_magazine/bren,/obj/item/ammo_magazine/bren,/turf/floor/plating/grass/wild,/area/prishtina/farm1{name = "Escape Area 4"})
 "nc" = (/obj/item/weapon/gun/projectile/automatic/bren,/turf/floor/plating/grass/wild,/area/prishtina/farm2{capturable = 0; icon_state = "red1"; name = "Forest"})
 "nd" = (/obj/item/weapon/gun/projectile/semiautomatic/bar,/obj/item/ammo_magazine/c762x63_smg,/obj/item/ammo_magazine/c762x63_smg,/turf/floor/plating/grass/wild,/area/prishtina/farm2{capturable = 0; icon_state = "red1"; name = "Forest"})
